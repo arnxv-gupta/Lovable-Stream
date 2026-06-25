@@ -93,3 +93,4 @@ Lovable/
 - The backend runs on **port 5000**, frontend on **port 5174**
 - Camera/microphone access requires **HTTPS or localhost** (already satisfied)
 - For video sync to work properly, all users should be on the same LAN or use localhost
+- Browser setting - Hardware acceleration
